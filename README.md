@@ -11,14 +11,6 @@ was Following the Plugin steps. 1) Have trouble to make the lightbox popup. 2) H
 HTML
 =============
 
-    <!-- Web Layout SECTION ================================================== -->
-    <div class="main"></div>
-    <div class="jumbotron">
-    <div class="container">
-      <h4> Web Page Design Here</h4>
-    </div>
-    </div>
-
     <!-- Logo SECTION ================================================== -->
     <div class="maincontainer" id="gallery">
     <div class="container">
